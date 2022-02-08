@@ -1,36 +1,36 @@
   {  
-         "districts":"East Khasi Hill District",
+         "districts":"East Khasi Hill",
          "block":[ 
-		 "Mylliem Block","Laitkroh Block","Shella Bholaganj Block","Mawsynram Block","Mawryngkneng Block","Mawphlang Block","Pynursla Block","Mawkynrew Block"
+		 "Mylliem","Laitkroh","Shella Bholaganj","Mawsynram","Mawryngkneng","Mawphlang","Pynursla","Mawkynrew"
          ],	   
-         "districts":"West Khasi Hills District",
-         "block":[ "Mylliem Block","Laitkroh Block","Shella Bholaganj Block","Mawsynram Block"
+         "districts":"West Khasi Hills",
+         "block":[ "Mylliem","Laitkroh","Shella Bholaganj","Mawsynram"
          ], 
-         "districts":"South West Khasi Hills District",
-         "block":[ "Mawkyrwat Block","Ranikor Block"
+         "districts":"South West Khasi Hills",
+         "block":[ "Mawkyrwat","Ranikor"
          ], 
-         "districts":"Ri Bhoi District",
-         "block":[ "Umsning Block","Umling Block","Jirang Block"
+         "districts":"Ri Bhoi",
+         "block":[ "Umsning","Umling","Jirang"
          ],  
-         "districts":"West Jaintia Hills District",
-         "block":[ "Thadlaskein","Amlarem Block","Laskein Block"
+         "districts":"West Jaintia Hills",
+         "block":[ "Thadlaskein","Amlarem","Laskein"
          ],  
-         "districts":"East Jaintia Hills District",
-         "block":[ "Khliehriat Block","Saipung Block"
+         "districts":"East Jaintia Hills",
+         "block":[ "Khliehriat","Saipung"
          ],
-		  "districts":"East Garo Hills District",
-         "block":[ "Dambo Rongjeng Block","Songsak Block","Samanda Block"
+		  "districts":"East Garo Hills",
+         "block":[ "Dambo Rongjeng","Songsak","Samanda"
          ],
-		  "districts":"West Garo Hills District",
-         "block":[ "Rongram Block","Dadenggre Block","Selsella Block","Tikrikilla Block","Gambegre Block","Dalu Block"
+		  "districts":"West Garo Hills",
+         "block":[ "Rongram","Dadenggre","Selsella","Tikrikilla","Gambegre","Dalu"
          ],
-		  "districts":"South West Garo Hills District",
-         "block":[ "Betasing Block","Zikzak Block"
+		  "districts":"South West Garo Hills",
+         "block":[ "Betasing","Zikzak"
          ],
-		  "districts":"North Garo Hills District",
-         "block":[ "Resubelpara Block","Kharkutta Block"
+		  "districts":"North Garo Hills",
+         "block":[ "Resubelpara","Kharkutta"
          ],
-		  "districts":"South Garo Hills District",
-         "block":[ "Baghmara Block","Gasuapara Block","Ronggara Block","Chokpot Block"
+		  "districts":"South Garo Hills",
+         "block":[ "Baghmara","Gasuapara","Ronggara","Chokpot"
          ]
       }
