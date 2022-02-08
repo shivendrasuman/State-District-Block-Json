@@ -1,0 +1,36 @@
+  {  
+         "districts":"East Khasi Hill District",
+         "block":[ 
+		 "Mylliem Block","Laitkroh Block","Shella Bholaganj Block","Mawsynram Block","Mawryngkneng Block","Mawphlang Block","Pynursla Block","Mawkynrew Block"
+         ],	   
+         "districts":"West Khasi Hills District",
+         "block":[ "Mylliem Block","Laitkroh Block","Shella Bholaganj Block","Mawsynram Block"
+         ], 
+         "districts":"South West Khasi Hills District",
+         "block":[ "Mawkyrwat Block","Ranikor Block"
+         ], 
+         "districts":"Ri Bhoi District",
+         "block":[ "Umsning Block","Umling Block","Jirang Block"
+         ],  
+         "districts":"West Jaintia Hills District",
+         "block":[ "Thadlaskein","Amlarem Block","Laskein Block"
+         ],  
+         "districts":"East Jaintia Hills District",
+         "block":[ "Khliehriat Block","Saipung Block"
+         ],
+		  "districts":"East Garo Hills District",
+         "block":[ "Dambo Rongjeng Block","Songsak Block","Samanda Block"
+         ],
+		  "districts":"West Garo Hills District",
+         "block":[ "Rongram Block","Dadenggre Block","Selsella Block","Tikrikilla Block","Gambegre Block","Dalu Block"
+         ],
+		  "districts":"South West Garo Hills District",
+         "block":[ "Betasing Block","Zikzak Block"
+         ],
+		  "districts":"North Garo Hills District",
+         "block":[ "Resubelpara Block","Kharkutta Block"
+         ],
+		  "districts":"South Garo Hills District",
+         "block":[ "Baghmara Block","Gasuapara Block","Ronggara Block","Chokpot Block"
+         ]
+      }
